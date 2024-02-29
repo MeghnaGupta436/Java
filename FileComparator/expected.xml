@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<book category="coding">
+    <title lang="en">Everyday coding</title>
+    <author>Guido van rossum</author>
+    <year>2001</year>
+    <price>30.00</price>
+</book>
